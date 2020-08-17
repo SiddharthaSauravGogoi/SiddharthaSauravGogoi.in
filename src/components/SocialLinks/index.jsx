@@ -4,7 +4,7 @@ export default function SocialLinks() {
   return (
     <div className="social-icons">
       <div className="twitter">
-        <a href="https://twitter.com/SidSGogoi" target="_blank" rel="noopener noreferrer">
+        <a href="https://github.com/SiddharthaSauravGogoi"  target="_blank" rel="noopener noreferrer">
           <img className="icon" src="https://image.flaticon.com/icons/svg/25/25231.svg" alt="" />
         </a>
       </div>
@@ -14,7 +14,7 @@ export default function SocialLinks() {
         </a>
       </div>
       <div className="github">
-        <a href="https://github.com/SiddharthaSauravGogoi" target="_blank" rel="noopener noreferrer">
+        <a href="https://twitter.com/SidSGogoi" target="_blank" rel="noopener noreferrer">
           <img className="icon" src="https://image.flaticon.com/icons/svg/69/69480.svg" alt="" />
         </a>
       </div>
