@@ -15,3 +15,11 @@ date: "2020-07-17"
 -  Spent a few hours learning about Perceptrons as Logical operators (AND|OR|NOT) from the Pytorch couse.
 - Working on React Helmet for SEO on my site as well. 
 Also realized I need to add GraphQL to my to do list in these 100 days. Too little time.
+
+## Day 3
+
+- Learned about 
+    1. Error functions
+    2. Log loss error functions
+    3. Softmax
+    4. One - Hot Encoding
