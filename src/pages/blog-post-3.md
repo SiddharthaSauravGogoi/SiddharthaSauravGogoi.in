@@ -16,6 +16,8 @@ date: "2020-07-17"
 - Working on React Helmet for SEO on my site as well. 
 Also realized I need to add GraphQL to my to do list in these 100 days. Too little time.
 
+<hr />
+
 ## Day 3
 
 - Learned about 
@@ -23,3 +25,21 @@ Also realized I need to add GraphQL to my to do list in these 100 days. Too litt
     2. Log loss error functions
     3. Softmax
     4. One - Hot Encoding
+
+<hr />
+
+## Day 4 
+
+Learned about 
+- Cross Entropy
+- Logistic Regression 
+
+I'll probably take a break on learning tomorrow and go through the concepts once again before proceeding forward.
+
+<hr />
+
+## Day 5
+
+Revised all the learnings and played around with Pytorch on an upcoming assignment.
+
+<hr />
