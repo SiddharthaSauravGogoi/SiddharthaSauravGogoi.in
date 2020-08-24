@@ -43,3 +43,22 @@ I'll probably take a break on learning tomorrow and go through the concepts once
 Revised all the learnings and played around with Pytorch on an upcoming assignment.
 
 <hr />
+
+## Day 6
+
+Had to spent some time on an assignment today which I have been working for around 3 days now. 
+Just played around with stuff like Batch Normalization, Dropout, Global Average Pooling, Image Augmentation.
+
+<hr />
+
+## Day 7
+
+Spent time learning more about Batch Normalization(why/what/when) and Regularization.
+
+<hr />
+
+## Day 8
+
+Started working on my side project. Wrote up a generic error boundary and fixed dependcy issues.
+
+<hr />
