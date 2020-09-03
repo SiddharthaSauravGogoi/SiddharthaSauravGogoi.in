@@ -62,3 +62,40 @@ Spent time learning more about Batch Normalization(why/what/when) and Regulariza
 Started working on my side project. Wrote up a generic error boundary and fixed dependcy issues.
 
 <hr />
+
+## Day 9
+
+- Learned about Gradient Descent
+- Set up SASS folder structure for my side project and set up basic mixins that I've used previously.
+
+<hr />
+
+## Day 10
+
+- Read stuff on L1 and L2 Regularization
+- Setup node project architecture for my side project.
+
+<hr />
+
+## Day 11
+- Working on an assignment implementing different kinds of regularization techniques.
+- Went through Ghost Batch Normalization.
+
+<hr />
+
+## Day 12
+I worked on my side project and worked on implementing Github Oauth via passport.js.
+
+<hr />
+
+## Day 13
+Set up tests for the frontend. 
+Looked up a few tutorials and went ahead with jest and enzyme. I won't be following TDD but I'll write tests for most of the components.
+
+<hr />
+
+## Day 14
+Set up tests for the backend today.
+It's a bit different from the frontend since I've gone with mocha & chai.
+
+<hr />
