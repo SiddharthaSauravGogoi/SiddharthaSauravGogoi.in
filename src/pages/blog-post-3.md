@@ -99,3 +99,36 @@ Set up tests for the backend today.
 It's a bit different from the frontend since I've gone with mocha & chai.
 
 <hr />
+
+## Day 15
+Set up tests for the backend today.
+It's a bit different from the frontend since I've gone with mocha & chai.
+
+<hr />
+
+## Day 16
+
+- Setup PWA support (Webpack).
+- Working on Integrating Google Analytics in my blog.
+
+<hr />
+
+## Day 17 
+Worked on build a PWA Weather APP (create-react-app).
+Finished
+- Theme (Context)
+- PWA support
+- Error boundaries
+
+<hr />
+
+## Day 18
+Still working on the weather app.
+Spent quite some time trying to solve an issue hanging around environment variables in React.
+
+<hr />
+
+## Day 19
+Adding the finishing touches to the weather app.
+
+<hr />
