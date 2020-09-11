@@ -1,5 +1,6 @@
 import React from 'react';
 import SocialLinks from '../../SocialLinks/index.jsx';
+import DP from '../../../assets/dp.jpg'
 
 export default function index() {
   return (
@@ -9,7 +10,7 @@ export default function index() {
       <div className="container-lp">
         <div className="identity">
           <img 
-            src="https://media-exp1.licdn.com/dms/image/C5103AQHjwQKKEz4IXA/profile-displayphoto-shrink_200_200/0?e=1603324800&v=beta&t=7czzH5gRxuBqFCkwQdv3MWV7ivDYmJUwmoL3Cj2z40A" 
+            src={DP}
             alt="profile-pic" 
           />
           <p>

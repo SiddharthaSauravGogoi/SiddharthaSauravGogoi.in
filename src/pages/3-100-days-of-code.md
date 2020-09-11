@@ -1,6 +1,6 @@
 ---
 title: "100 Days of Code logs"
-date: "2020-07-17"
+date: "2020-08-17"
 ---
 
 ## Day 1

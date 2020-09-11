@@ -2,6 +2,10 @@
     font-family: 'Lato', sans-serif;
     box-sizing: border-box;
 }
+a{
+    text-decoration: none;
+    color: black;
+}
 p{
     font-weight: 300;
     font-family: 'Source Sans Pro', sans-serif;
@@ -21,13 +25,11 @@ nav{
     z-index: 1;
     padding: 0 4%;
 }
-a{
-    text-decoration: none;
-    font-size: 1.5rem;
-    color: black;
-}
+
 .nav-links a {
     margin-right: 10px; 
+    text-decoration: none;
+    font-size: 1.25rem;
 }
 .blog-container{
     display: flex;
@@ -105,36 +107,39 @@ img{
 .projects-header{
     font-size: 3.5rem;
     text-align: center ;
-    padding-top: 3%;
+    padding: 3% 0%;
 }
 
 .project-row{
     width: 100%;
     display: flex;
+    padding: 32px 0px;
 }
 
 .project-display, 
 .project-description {
     width: 50%;
-}
-
-.project-description{
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+.project-description{
+    flex-direction: column;
+    line-height: normal;
     text-align: justify;
-    font-size: 1.5rem;
+    font-size: 1rem;
     font-weight: 300;
 }
 
 .project-description article{
-    width: 70%;
+    width: 60%;
 }
 
 .project-display-img{
-    border-radius: 0px;
-    height: 50vh;
-    width: 50%;
+    border-radius: 5px;
+    height: 100%;
+    width: 70%;
 }
 
 .contact{
@@ -146,12 +151,43 @@ img{
     margin-top: 5%;
 }
 
+.contact-info-link {
+    font-size: 1rem;
+    padding: 0px 8px;
+    font-weight: 700;
+}
+
 .project-feature-list{
     margin-top: 5%;
+}
+
+@media (max-width: 768px) {
+
+    .project-row{
+        flex-direction: column;
+    }
+
+    .project-display,
+    .project-description {
+        width: 100%;
+        min-height: 50vh;
+    }
 }
 
 @media (max-width: 425px) {
     *, h1, h2, h3, h4, h5, a{
         font-size: 1rem;
+    }
+    .project-row{
+        flex-direction: column;
+    }
+
+
+    .project-display-img{
+        height: 90%;
+        width: 90%;
+    }
+    .project-description article{
+        width: 75%;
     }
 }

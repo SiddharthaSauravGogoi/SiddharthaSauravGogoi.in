@@ -5,9 +5,9 @@ export default function Projects() {
   return (
     <section className="projects">
       <h1 className="projects-header"> 
-        Projects
-      <ProjectItems />
+        Side Projects
       </h1>
+      <ProjectItems />
     </section>
   )
 }
